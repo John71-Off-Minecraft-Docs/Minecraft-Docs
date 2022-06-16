@@ -7,3 +7,5 @@ theme:
 
 nav:
   - index: index.md
+  - Modpacks:
+    - Crafting Eras: 'https://docs.minecraft.john71.eu/projects/Crafting-Eras/en/main/'
