@@ -1,0 +1,9 @@
+site_name: Minecraft Docs · John71
+plugins: []
+
+theme:
+  name: readthedocs
+  titles_only: True
+
+nav:
+  - index: index.md
